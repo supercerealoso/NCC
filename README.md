@@ -1,0 +1,2 @@
+# NCC
+Normalized Cross Correlation
